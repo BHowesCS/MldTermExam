@@ -1,3 +1,7 @@
+#Greetings Branch
+print("Hi! My name is Ben Howes\nI am a 9th grader at Gull Lake High School\n")
+
+#Story Branch
 print("Once upon a time...\nAll the way back in kindergarten, on a fine Halloween evening, we were having our class\n"
       "party. Everyone was dressed up, and excited to see everyone else's costume. I come in with my Teenage Mutant \n"
       "Ninja Turtle's costume. I was really happy with it, because it was one of my favorite shows. To my surprise,\n"
